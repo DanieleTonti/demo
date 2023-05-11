@@ -77,7 +77,7 @@ Nel gioco della battaglia navale in singolo il tuo obiettivo è di distruggere t
             -	Cacciatorpediniere      ##       esemplari: 4
             -	Incrociatore            ###      esemplari: 3 
             -	Corazzata               ####     esemplari: 2 
-            -	Portaerei  		        #####    esemplari: 1 
+            -	Portaerei  		    #####    esemplari: 1 
     ```
 
 - **RF6**: Come giocatore voglio iniziare una nuova partita.
