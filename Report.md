@@ -46,7 +46,7 @@ Nel gioco della battaglia navale in singolo il tuo obiettivo è di distruggere t
         • se la conferma è negativa, l'applicazione si predispone a ricevere nuovi tentativi o comandi
     ```
 
-- **RF3**: Come giocatore voglio impostare il livello di gioco per variare il numero massimo di tentativi sbagliati.
+- **RF3**: Come        giocatore voglio impostare il livello di gioco per variare il numero massimo di tentativi sbagliati.
 
     ```
     Criteri di accettazione:
@@ -74,7 +74,7 @@ Nel gioco della battaglia navale in singolo il tuo obiettivo è di distruggere t
     Criteri di accettazione:
         Al comando /mostranavi 
         l’applicazione risponde visualizzando, per ogni tipo di nave, la dimensione in quadrati e il numero di esemplari da affondare:
-            -	Cacciatorpediniere    ##       esemplari: 4
+            -	Cacciatorpediniere         ##       esemplari: 4
             -	Incrociatore          ###      esemplari: 3 
             -	Corazzata             ####     esemplari: 2 
             -	Portaerei             #####    esemplari: 1 
